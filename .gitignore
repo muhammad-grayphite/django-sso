@@ -1,0 +1,7 @@
+.idea/*
+.vscode/*
+.venv/*
+*.pyc
+.env
+.vscode
+buildspec.yml
